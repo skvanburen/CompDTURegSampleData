@@ -1,0 +1,13 @@
+{
+    "salmon_version": "0.8.2",
+    "threads": "1",
+    "index": "/pine/scr/s/k/skvanbur/SQCCDataReproduceOldResBeforeCommonCode/Salmon/transcripts_indexGENCODEv27",
+    "libType": "A",
+    "mates1": "/pine/scr/s/k/skvanbur/SQCCData/AReps/SRR950086_1.fastq",
+    "mates2": "/pine/scr/s/k/skvanbur/SQCCData/AReps/SRR950086_2.fastq",
+    "output": "/nas/longleaf/home/skvanbur/res/SQCCDataReproduceOldResBeforeCommonCode/SalmonReproduceResBeforeCommonCodeBootstraps/transcripts_quantRep5",
+    "seqBias": [],
+    "gcBias": [],
+    "numBootstraps": "100",
+    "auxDir": "aux_info"
+}

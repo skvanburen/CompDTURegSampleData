@@ -1,0 +1,152 @@
+[2019-05-15 22:57:24.065] [jointLog] [info] parsing read library format
+[2019-05-15 22:57:24.065] [jointLog] [info] There is 1 library.
+[2019-05-15 22:57:24.152] [jointLog] [info] Loading Quasi index
+[2019-05-15 22:57:24.153] [jointLog] [info] Loading 32-bit quasi index
+[2019-05-15 22:57:35.576] [jointLog] [info] done
+[2019-05-15 22:57:35.576] [jointLog] [info] Index contained 200401 targets
+[2019-05-15 22:57:40.939] [jointLog] [info] Automatically detected most likely library type as IU
+[2019-05-16 00:40:28.198] [fileLog] [info] 
+At end of round 0
+==================
+Observed 60599733 total fragments (60599733 in most recent round)
+
+[2019-05-16 00:40:28.197] [jointLog] [info] Computed 442692 rich equivalence classes for further processing
+[2019-05-16 00:40:28.197] [jointLog] [info] Counted 51073632 total reads in the equivalence classes 
+[2019-05-16 00:40:28.200] [jointLog] [info] Mapping rate = 84.2803%
+
+[2019-05-16 00:40:28.200] [jointLog] [info] finished quantifyLibrary()
+[2019-05-16 00:40:28.206] [jointLog] [info] Starting optimizer
+[2019-05-16 00:40:28.598] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-05-16 00:40:28.683] [jointLog] [info] iteration = 0 | max rel diff. = 10.8325
+[2019-05-16 00:40:29.567] [jointLog] [info] iteration 11, adjusting effective lengths to account for biases
+[2019-05-16 01:34:18.202] [jointLog] [info] Computed expected counts (for bias correction)
+[2019-05-16 01:34:18.221] [jointLog] [info] processed bias for 0.0% of the transcripts
+[2019-05-16 01:40:44.322] [jointLog] [info] processed bias for 10.0% of the transcripts
+[2019-05-16 01:47:10.087] [jointLog] [info] processed bias for 20.0% of the transcripts
+[2019-05-16 01:53:39.436] [jointLog] [info] processed bias for 30.0% of the transcripts
+[2019-05-16 01:59:52.638] [jointLog] [info] processed bias for 40.0% of the transcripts
+[2019-05-16 02:05:46.510] [jointLog] [info] processed bias for 50.0% of the transcripts
+[2019-05-16 02:12:03.125] [jointLog] [info] processed bias for 60.0% of the transcripts
+[2019-05-16 02:17:29.336] [jointLog] [info] processed bias for 70.0% of the transcripts
+[2019-05-16 02:23:09.066] [jointLog] [info] processed bias for 80.0% of the transcripts
+[2019-05-16 02:26:12.709] [jointLog] [info] processed bias for 100.0% of the transcripts
+[2019-05-16 02:26:20.866] [jointLog] [info] iteration = 100 | max rel diff. = 0.197693
+[2019-05-16 02:26:29.902] [jointLog] [info] iteration = 200 | max rel diff. = 0.089495
+[2019-05-16 02:26:38.916] [jointLog] [info] iteration = 300 | max rel diff. = 0.0465194
+[2019-05-16 02:26:48.079] [jointLog] [info] iteration = 400 | max rel diff. = 0.030147
+[2019-05-16 02:26:56.661] [jointLog] [info] iteration = 500 | max rel diff. = 0.022847
+[2019-05-16 02:27:05.418] [jointLog] [info] iteration = 600 | max rel diff. = 0.0221264
+[2019-05-16 02:27:14.287] [jointLog] [info] iteration = 700 | max rel diff. = 0.0203816
+[2019-05-16 02:27:23.184] [jointLog] [info] iteration = 800 | max rel diff. = 0.0147255
+[2019-05-16 02:27:32.001] [jointLog] [info] iteration = 900 | max rel diff. = 0.0188782
+[2019-05-16 02:27:40.751] [jointLog] [info] iteration = 1000 | max rel diff. = 0.0111626
+[2019-05-16 02:27:49.532] [jointLog] [info] iteration = 1100 | max rel diff. = 0.0104165
+[2019-05-16 02:27:55.189] [jointLog] [info] iteration = 1163 | max rel diff. = 0.00962432
+[2019-05-16 02:27:55.208] [jointLog] [info] Finished optimizer
+[2019-05-16 02:27:55.208] [jointLog] [info] writing output 
+
+[2019-05-16 02:27:55.656] [jointLog] [info] Starting Bootstrapping
+[2019-05-16 02:27:55.931] [jointLog] [info] Will draw 100 bootstrap samples
+[2019-05-16 02:27:55.931] [jointLog] [info] Optimizing over 442692 equivalence classes
+[2019-05-16 02:27:55.972] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2019-05-16 02:29:00.677] [jointLog] [info] wrote 1 bootstraps
+[2019-05-16 02:30:09.495] [jointLog] [info] wrote 2 bootstraps
+[2019-05-16 02:31:22.254] [jointLog] [info] wrote 3 bootstraps
+[2019-05-16 02:32:48.604] [jointLog] [info] wrote 4 bootstraps
+[2019-05-16 02:33:58.479] [jointLog] [info] wrote 5 bootstraps
+[2019-05-16 02:35:02.461] [jointLog] [info] wrote 6 bootstraps
+[2019-05-16 02:36:09.677] [jointLog] [info] wrote 7 bootstraps
+[2019-05-16 02:37:31.003] [jointLog] [info] wrote 8 bootstraps
+[2019-05-16 02:38:42.067] [jointLog] [info] wrote 9 bootstraps
+[2019-05-16 02:39:49.223] [jointLog] [info] wrote 10 bootstraps
+[2019-05-16 02:40:53.457] [jointLog] [info] wrote 11 bootstraps
+[2019-05-16 02:42:12.934] [jointLog] [info] wrote 12 bootstraps
+[2019-05-16 02:43:25.860] [jointLog] [info] wrote 13 bootstraps
+[2019-05-16 02:44:30.032] [jointLog] [info] wrote 14 bootstraps
+[2019-05-16 02:45:35.350] [jointLog] [info] wrote 15 bootstraps
+[2019-05-16 02:46:45.822] [jointLog] [info] wrote 16 bootstraps
+[2019-05-16 02:47:50.623] [jointLog] [info] wrote 17 bootstraps
+[2019-05-16 02:48:55.854] [jointLog] [info] wrote 18 bootstraps
+[2019-05-16 02:50:00.432] [jointLog] [info] wrote 19 bootstraps
+[2019-05-16 02:51:17.775] [jointLog] [info] wrote 20 bootstraps
+[2019-05-16 02:52:21.841] [jointLog] [info] wrote 21 bootstraps
+[2019-05-16 02:53:25.006] [jointLog] [info] wrote 22 bootstraps
+[2019-05-16 02:54:28.282] [jointLog] [info] wrote 23 bootstraps
+[2019-05-16 02:55:36.005] [jointLog] [info] wrote 24 bootstraps
+[2019-05-16 02:56:42.879] [jointLog] [info] wrote 25 bootstraps
+[2019-05-16 02:57:48.587] [jointLog] [info] wrote 26 bootstraps
+[2019-05-16 02:58:54.975] [jointLog] [info] wrote 27 bootstraps
+[2019-05-16 03:00:00.310] [jointLog] [info] wrote 28 bootstraps
+[2019-05-16 03:01:06.889] [jointLog] [info] wrote 29 bootstraps
+[2019-05-16 03:02:12.687] [jointLog] [info] wrote 30 bootstraps
+[2019-05-16 03:03:17.727] [jointLog] [info] wrote 31 bootstraps
+[2019-05-16 03:04:24.496] [jointLog] [info] wrote 32 bootstraps
+[2019-05-16 03:05:29.349] [jointLog] [info] wrote 33 bootstraps
+[2019-05-16 03:06:33.548] [jointLog] [info] wrote 34 bootstraps
+[2019-05-16 03:07:50.594] [jointLog] [info] wrote 35 bootstraps
+[2019-05-16 03:08:58.396] [jointLog] [info] wrote 36 bootstraps
+[2019-05-16 03:10:11.348] [jointLog] [info] wrote 37 bootstraps
+[2019-05-16 03:11:14.496] [jointLog] [info] wrote 38 bootstraps
+[2019-05-16 03:12:19.702] [jointLog] [info] wrote 39 bootstraps
+[2019-05-16 03:13:44.798] [jointLog] [info] wrote 40 bootstraps
+[2019-05-16 03:15:02.237] [jointLog] [info] wrote 41 bootstraps
+[2019-05-16 03:16:07.318] [jointLog] [info] wrote 42 bootstraps
+[2019-05-16 03:17:09.275] [jointLog] [info] wrote 43 bootstraps
+[2019-05-16 03:18:16.721] [jointLog] [info] wrote 44 bootstraps
+[2019-05-16 03:19:24.001] [jointLog] [info] wrote 45 bootstraps
+[2019-05-16 03:20:29.219] [jointLog] [info] wrote 46 bootstraps
+[2019-05-16 03:21:42.322] [jointLog] [info] wrote 47 bootstraps
+[2019-05-16 03:22:52.385] [jointLog] [info] wrote 48 bootstraps
+[2019-05-16 03:24:00.338] [jointLog] [info] wrote 49 bootstraps
+[2019-05-16 03:25:08.997] [jointLog] [info] wrote 50 bootstraps
+[2019-05-16 03:26:25.907] [jointLog] [info] wrote 51 bootstraps
+[2019-05-16 03:27:41.594] [jointLog] [info] wrote 52 bootstraps
+[2019-05-16 03:28:48.844] [jointLog] [info] wrote 53 bootstraps
+[2019-05-16 03:29:53.942] [jointLog] [info] wrote 54 bootstraps
+[2019-05-16 03:31:00.137] [jointLog] [info] wrote 55 bootstraps
+[2019-05-16 03:32:07.889] [jointLog] [info] wrote 56 bootstraps
+[2019-05-16 03:33:16.111] [jointLog] [info] wrote 57 bootstraps
+[2019-05-16 03:34:19.190] [jointLog] [info] wrote 58 bootstraps
+[2019-05-16 03:35:48.676] [jointLog] [info] wrote 59 bootstraps
+[2019-05-16 03:36:58.893] [jointLog] [info] wrote 60 bootstraps
+[2019-05-16 03:38:11.137] [jointLog] [info] wrote 61 bootstraps
+[2019-05-16 03:39:21.286] [jointLog] [info] wrote 62 bootstraps
+[2019-05-16 03:40:32.264] [jointLog] [info] wrote 63 bootstraps
+[2019-05-16 03:41:47.005] [jointLog] [info] wrote 64 bootstraps
+[2019-05-16 03:43:14.401] [jointLog] [info] wrote 65 bootstraps
+[2019-05-16 03:44:19.229] [jointLog] [info] wrote 66 bootstraps
+[2019-05-16 03:45:27.805] [jointLog] [info] wrote 67 bootstraps
+[2019-05-16 03:46:30.462] [jointLog] [info] wrote 68 bootstraps
+[2019-05-16 03:47:32.375] [jointLog] [info] wrote 69 bootstraps
+[2019-05-16 03:48:40.559] [jointLog] [info] wrote 70 bootstraps
+[2019-05-16 03:49:56.213] [jointLog] [info] wrote 71 bootstraps
+[2019-05-16 03:51:11.393] [jointLog] [info] wrote 72 bootstraps
+[2019-05-16 03:52:15.201] [jointLog] [info] wrote 73 bootstraps
+[2019-05-16 03:53:41.753] [jointLog] [info] wrote 74 bootstraps
+[2019-05-16 03:54:47.834] [jointLog] [info] wrote 75 bootstraps
+[2019-05-16 03:55:54.017] [jointLog] [info] wrote 76 bootstraps
+[2019-05-16 03:57:02.693] [jointLog] [info] wrote 77 bootstraps
+[2019-05-16 03:58:09.478] [jointLog] [info] wrote 78 bootstraps
+[2019-05-16 03:59:33.168] [jointLog] [info] wrote 79 bootstraps
+[2019-05-16 04:00:40.271] [jointLog] [info] wrote 80 bootstraps
+[2019-05-16 04:01:56.297] [jointLog] [info] wrote 81 bootstraps
+[2019-05-16 04:03:03.388] [jointLog] [info] wrote 82 bootstraps
+[2019-05-16 04:04:15.126] [jointLog] [info] wrote 83 bootstraps
+[2019-05-16 04:05:32.462] [jointLog] [info] wrote 84 bootstraps
+[2019-05-16 04:06:41.624] [jointLog] [info] wrote 85 bootstraps
+[2019-05-16 04:07:55.920] [jointLog] [info] wrote 86 bootstraps
+[2019-05-16 04:09:06.940] [jointLog] [info] wrote 87 bootstraps
+[2019-05-16 04:10:12.565] [jointLog] [info] wrote 88 bootstraps
+[2019-05-16 04:11:25.694] [jointLog] [info] wrote 89 bootstraps
+[2019-05-16 04:12:38.297] [jointLog] [info] wrote 90 bootstraps
+[2019-05-16 04:13:43.497] [jointLog] [info] wrote 91 bootstraps
+[2019-05-16 04:14:53.762] [jointLog] [info] wrote 92 bootstraps
+[2019-05-16 04:15:54.405] [jointLog] [info] wrote 93 bootstraps
+[2019-05-16 04:17:00.118] [jointLog] [info] wrote 94 bootstraps
+[2019-05-16 04:18:02.487] [jointLog] [info] wrote 95 bootstraps
+[2019-05-16 04:19:10.616] [jointLog] [info] wrote 96 bootstraps
+[2019-05-16 04:20:15.357] [jointLog] [info] wrote 97 bootstraps
+[2019-05-16 04:21:17.935] [jointLog] [info] wrote 98 bootstraps
+[2019-05-16 04:22:30.560] [jointLog] [info] wrote 99 bootstraps
+[2019-05-16 04:23:48.288] [jointLog] [info] wrote 100 bootstraps
+[2019-05-16 04:23:48.327] [jointLog] [info] Finished Bootstrapping

@@ -1,0 +1,22 @@
+{
+    "read_files": "( /pine/scr/s/k/skvanbur/SQCCData/AReps/SRR950084_1.fastq, /pine/scr/s/k/skvanbur/SQCCData/AReps/SRR950084_2.fastq )",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 0.995646715011699,
+    "num_compatible_fragments": 100809892,
+    "num_assigned_fragments": 101250665,
+    "num_consistent_mappings": 372428350,
+    "num_inconsistent_mappings": 17688863,
+    "strand_mapping_bias": 0.500290654564831,
+    "MSF": 0,
+    "OSF": 76908,
+    "ISF": 186105927,
+    "MSR": 0,
+    "OSR": 82139,
+    "ISR": 186322423,
+    "SF": 8184884,
+    "SR": 7700481,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
