@@ -6,4 +6,4 @@ This data is designed to be used with the CompDTUReg package available at https:
 
 Additionally, gene level files are provided for a small subet of 10 genes in the folder GeneLevelFiles and in a convenient zipped format in the file "GeneLevelFiles.zip".  These files contain all information necessary to run the CompDTU and CompDTUme methods from the CompDTUReg package.
 
-Sample code is provided within the package repository that shows how to process the raw quantification output (and inferential replicates) from the Salmon output as well as how to run the CompDTU and CompDTUme methods.  See the SampleCode folder within the package repository linked to above.
+Sample code is provided within the package repository that shows how to process the raw quantification output (and inferential replicates) from the Salmon output as well as how to run the CompDTU and CompDTUme methods.  See the SampleCode folder and the package README within the package repository linked to above.
